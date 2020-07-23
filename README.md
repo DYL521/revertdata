@@ -1,16 +1,18 @@
-### Hi there 👋
+### hello, i'm maryn! 👋
 
-<!--
-**revertdata/revertdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full-stack developer, full-stack pancakes.
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=revertdata&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 **Pronouns**: she/her<br>
+⚡ **Fun fact**: i have a cat named kiwi!<br>
+📫 **Say hello**: contact@revertdata.xyz
+
+<a href="https://twitter.com/revertdata" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/revertdata/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://github.com/revertdata" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://reverdata.xyz" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+
+![Profile views](https://gpvc.arturio.dev/revertdata)
+
+[sponsor](https://github.com/sponsors/revertdata) | [paypal](https://paypal.me/maryn)
